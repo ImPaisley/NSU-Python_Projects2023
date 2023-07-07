@@ -1,2 +1,6 @@
-# NSU-Python_Projects2023
-Python projects from Foundations in Programming course at NSU
+# Python Projects - Beginner
+
+These are 4 projects that were completed in Python
+for the Foundations in Programming course at Nova
+Southeastern University during my graduate certificate
+program (Computational Molecular Biology)
